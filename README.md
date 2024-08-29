@@ -1,6 +1,6 @@
 # Car Sales Conversation Analyzer
 
-This project is a Streamlit web application designed to analyze car sales conversations between customers and salespersons. The application extracts relevant customer requirements, discussed company policies, and customer objections, and provides sentiment analysis on the conversations. The application uses the LLaMA 2 model for natural language processing and is integrated with Hugging Face for model management.
+Our project **Care Ur Car** is a Streamlit web application designed to analyze car sales conversations between customers and salespersons. The application extracts relevant customer requirements, discussed company policies, and customer objections, and provides sentiment analysis on the conversations. The application uses the LLaMA 2 model for natural language processing and is integrated with Hugging Face for model management.
 
 ## Features
 
